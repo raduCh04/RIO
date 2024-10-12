@@ -1,5 +1,5 @@
-# RIO (Radu IO)
-RIO is a simple header only C library for I/O operations for personal use. It provides a lightweight interface for reading, writing, creating, and managing files. This library makes it easy to perform file operations.
+# RI/O
+RI/O is a simple header only C library for I/O operations for personal use. It provides a lightweight interface for reading, writing, creating, and managing files. This library makes it easy to perform file operations.
 
 ## Usage
 
